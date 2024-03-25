@@ -4,12 +4,7 @@
 <h3>使用方法:</h3></br>
 1.安装python</br>
 2.将main.py和requirements.txt复制到mods文件夹下</br>  
-2.在终端中运行以下命令</br>  
-```
-def hello():
-print("Hello, Markdown")
-```
-</br>  
-```
+2.在终端中运行以下命令</br>
+pip install -r requirements.txt
+</br>
 python ./main.py
-```
