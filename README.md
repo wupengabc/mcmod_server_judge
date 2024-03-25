@@ -6,7 +6,8 @@
 2.将main.py和requirements.txt复制到mods文件夹下</br>  
 2.在终端中运行以下命令</br>  
 ```
-pip install -r requirements.txt
+def hello():
+print("Hello, Markdown")
 ```
 </br>  
 ```
